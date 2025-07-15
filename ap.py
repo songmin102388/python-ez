@@ -1,2 +1,1 @@
-asdfasdf
-qwer
+print("hello world")
